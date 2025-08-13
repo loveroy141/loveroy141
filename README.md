@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/mmphego/mmphego/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/loveroy141/loveroy141/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -91,5 +91,5 @@ I'm a passionate Full Stack Developer from Nepal with expertise in building robu
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF">
+  <img src="https://github.com/loveroy141/loveroy141/blob/main/github-user-contribution.svg" alt="GitHub Contributions" />
 </p>
